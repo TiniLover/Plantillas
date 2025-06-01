@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Services</RootNamespace>
+    <AssemblyName>Services</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="PATRONES\Abstract Factory.cs" />
+    <Compile Include="PATRONES\Adapter.cs" />
+    <Compile Include="PATRONES\Builder.cs" />
+    <Compile Include="PATRONES\Chain of Responsibilty.cs" />
+    <Compile Include="PATRONES\Command.cs" />
+    <Compile Include="PATRONES\Composite.cs" />
+    <Compile Include="PATRONES\Decorator.cs" />
+    <Compile Include="PATRONES\Facade.cs" />
+    <Compile Include="PATRONES\Factory.cs" />
+    <Compile Include="PATRONES\Interpreter.cs" />
+    <Compile Include="PATRONES\Mediator.cs" />
+    <Compile Include="PATRONES\Memento.cs" />
+    <Compile Include="PATRONES\Observer.cs" />
+    <Compile Include="PATRONES\Prototype.cs" />
+    <Compile Include="PATRONES\Proxy.cs" />
+    <Compile Include="PATRONES\Singleton.cs" />
+    <Compile Include="PATRONES\State.cs" />
+    <Compile Include="PATRONES\Strategy.cs" />
+    <Compile Include="PATRONES\Template Method.cs" />
+    <Compile Include="PATRONES\Visitor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{63B45293-40F2-40E4-9F85-1BC052624D6B}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dal\Dal.csproj">
+      <Project>{064875FA-84CA-4521-BF14-F7B222BB65D8}</Project>
+      <Name>Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entities.csproj">
+      <Project>{4CF21E26-70D8-4FA8-AEBB-FE6894101DD4}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

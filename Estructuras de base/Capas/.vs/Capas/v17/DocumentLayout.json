@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\template method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\chain of responsibilty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\abstract factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\patrones\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB1747C-87CE-4842-A778-001129CD0793}|Capas.csproj|c:\\users\\agube\\downloads\\estructuras de base\\capas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB1747C-87CE-4842-A778-001129CD0793}|Capas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B45293-40F2-40E4-9F85-1BC052624D6B}|..\\BLL\\BLL.csproj|c:\\users\\agube\\downloads\\estructuras de base\\bll\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CC8F8-53A8-4F93-81F3-94E1E7A68BCA}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\estructuras de base\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064875FA-84CA-4521-BF14-F7B222BB65D8}|..\\Dal\\Dal.csproj|c:\\users\\agube\\downloads\\estructuras de base\\dal\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064875FA-84CA-4521-BF14-F7B222BB65D8}|..\\Dal\\Dal.csproj|c:\\users\\agube\\downloads\\estructuras de base\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF21E26-70D8-4FA8-AEBB-FE6894101DD4}|..\\Entity\\Entity.csproj|c:\\users\\agube\\downloads\\estructuras de base\\entity\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB1747C-87CE-4842-A778-001129CD0793}|Capas.csproj|c:\\users\\agube\\downloads\\estructuras de base\\capas\\capas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDB1747C-87CE-4842-A778-001129CD0793}|Capas.csproj|solutionrelative:capas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Memento.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Memento.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Memento.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Memento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:09:28.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Interpreter.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Interpreter.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Interpreter.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Interpreter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:09:15.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Mediator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Mediator.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Mediator.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Mediator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:08:11.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chain of Responsibilty.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Chain of Responsibilty.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Chain of Responsibilty.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Chain of Responsibilty.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Chain of Responsibilty.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:07:34.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Template Method.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Template Method.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Template Method.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Template Method.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Template Method.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:06:48.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Adapter.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Adapter.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Adapter.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:02:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Composite.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Composite.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Composite.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Composite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:04:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Factory.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Factory.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Factory.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Factory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:00:19.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Observer.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Observer.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Observer.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Observer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:05:29.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Prototype.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Prototype.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Prototype.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Prototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:02:00.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Visitor.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Visitor.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Visitor.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Visitor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:08:50.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\State.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\State.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\State.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\State.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:08:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Proxy.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Proxy.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Proxy.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Proxy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:07:14.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Command.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Command.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Command.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Command.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:06:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Strategy.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Strategy.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Strategy.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Strategy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:05:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Facade.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Facade.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Facade.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Facade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:04:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Decorator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Decorator.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Decorator.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Decorator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:04:12.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Builder.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Builder.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Builder.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Builder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:01:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Abstract Factory.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Abstract Factory.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Abstract Factory.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Abstract Factory.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Abstract Factory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:00:59.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Singleton.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PATRONES\\Singleton.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\PATRONES\\Singleton.cs",
+              "RelativeToolTip": "..\\Services\\PATRONES\\Singleton.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:58:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Capas",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Capas\\Capas.csproj",
+              "RelativeDocumentMoniker": "Capas.csproj",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Capas\\Capas.csproj",
+              "RelativeToolTip": "Capas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T19:46:59.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Services\\Class1.cs",
+              "RelativeToolTip": "..\\Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:36:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntityManager.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\BLL\\EntityManager.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\EntityManager.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\BLL\\EntityManager.cs",
+              "RelativeToolTip": "..\\BLL\\EntityManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:29:40.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Dal\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Dal\\IRepository.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Dal\\IRepository.cs",
+              "RelativeToolTip": "..\\Dal\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:26:30.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Dal\\EntityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Dal\\EntityRepository.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Dal\\EntityRepository.cs",
+              "RelativeToolTip": "..\\Dal\\EntityRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:25:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Entity\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Entity\\Entity.cs",
+              "RelativeToolTip": "..\\Entity\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:23:56.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Capas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Estructuras de base\\Capas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:23:28.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
