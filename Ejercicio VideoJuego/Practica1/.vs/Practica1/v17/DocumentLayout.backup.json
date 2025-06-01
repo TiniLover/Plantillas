@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agube\\Downloads\\Practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A46F906-1034-4522-8E48-598D0537F773}|..\\Dal\\Dal.csproj|c:\\users\\agube\\downloads\\dal\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A46F906-1034-4522-8E48-598D0537F773}|..\\Dal\\Dal.csproj|c:\\users\\agube\\downloads\\dal\\dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016810EE-93D8-4A93-B0A7-842B6BF07663}|..\\BLL\\BLL.csproj|c:\\users\\agube\\downloads\\bll\\bll\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2745F57-39E0-4941-8BFB-FCC5FC538895}|Practica1.csproj|c:\\users\\agube\\downloads\\practica1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2745F57-39E0-4941-8BFB-FCC5FC538895}|Practica1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF118CED-E38F-4256-A805-011734741296}|..\\Domain\\Domain.csproj|c:\\users\\agube\\downloads\\domain\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0693D44D-FA1C-4D9E-8999-C805C7F92F76}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\services\\services\\ientityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0693D44D-FA1C-4D9E-8999-C805C7F92F76}|..\\Services\\Services.csproj|c:\\users\\agube\\downloads\\services\\services\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2745F57-39E0-4941-8BFB-FCC5FC538895}|Practica1.csproj|c:\\users\\agube\\downloads\\practica1\\practica1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2745F57-39E0-4941-8BFB-FCC5FC538895}|Practica1.csproj|solutionrelative:practica1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntityService.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Services\\Services\\IEntityService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\IEntityService.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Services\\Services\\IEntityService.cs",
+              "RelativeToolTip": "..\\Services\\Services\\IEntityService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:51:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Dal\\Dal\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Dal\\Dal\\IRepository.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Dal\\Dal\\IRepository.cs",
+              "RelativeToolTip": "..\\Dal\\Dal\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:07:18.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dal.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Dal\\Dal\\Dal.cs",
+              "RelativeDocumentMoniker": "..\\Dal\\Dal\\Dal.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Dal\\Dal\\Dal.cs",
+              "RelativeToolTip": "..\\Dal\\Dal\\Dal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:07:16.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Domain\\Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Domain\\Domain\\Entity.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\Entity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:02:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bll.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\BLL\\BLL\\Bll.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\BLL\\Bll.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\BLL\\BLL\\Bll.cs",
+              "RelativeToolTip": "..\\BLL\\BLL\\Bll.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:08:06.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Services\\Services\\Memento.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\Memento.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Services\\Services\\Memento.cs",
+              "RelativeToolTip": "..\\Services\\Services\\Memento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:28:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Practica1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Practica1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:44:58.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Practica1",
+              "DocumentMoniker": "C:\\Users\\agube\\Downloads\\Practica1\\Practica1.csproj",
+              "RelativeDocumentMoniker": "Practica1.csproj",
+              "ToolTip": "C:\\Users\\agube\\Downloads\\Practica1\\Practica1.csproj",
+              "RelativeToolTip": "Practica1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T13:45:34.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

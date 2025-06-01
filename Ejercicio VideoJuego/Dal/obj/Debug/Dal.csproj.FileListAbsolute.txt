@@ -1,0 +1,9 @@
+C:\Users\agube\Downloads\Dal\bin\Debug\Dal.dll
+C:\Users\agube\Downloads\Dal\bin\Debug\Dal.pdb
+C:\Users\agube\Downloads\Dal\bin\Debug\Domain.dll
+C:\Users\agube\Downloads\Dal\bin\Debug\Domain.pdb
+C:\Users\agube\Downloads\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\agube\Downloads\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\agube\Downloads\Dal\obj\Debug\Dal.csproj.Up2Date
+C:\Users\agube\Downloads\Dal\obj\Debug\Dal.dll
+C:\Users\agube\Downloads\Dal\obj\Debug\Dal.pdb

@@ -1,0 +1,13 @@
+C:\Users\agube\Downloads\Services\bin\Debug\Services.dll
+C:\Users\agube\Downloads\Services\bin\Debug\Services.pdb
+C:\Users\agube\Downloads\Services\bin\Debug\BLL.dll
+C:\Users\agube\Downloads\Services\bin\Debug\Domain.dll
+C:\Users\agube\Downloads\Services\bin\Debug\Dal.dll
+C:\Users\agube\Downloads\Services\bin\Debug\BLL.pdb
+C:\Users\agube\Downloads\Services\bin\Debug\Domain.pdb
+C:\Users\agube\Downloads\Services\bin\Debug\Dal.pdb
+C:\Users\agube\Downloads\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\agube\Downloads\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\agube\Downloads\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\agube\Downloads\Services\obj\Debug\Services.dll
+C:\Users\agube\Downloads\Services\obj\Debug\Services.pdb
