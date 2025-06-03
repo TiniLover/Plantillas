@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{63B45293-40F2-40E4-9F85-1BC052624D6B}</ProjectGuid>
+    <ProjectGuid>{CC47BC01-F375-4E9B-A8E2-A740948FF57E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BLL</RootNamespace>
@@ -41,17 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EntityManager.cs" />
+    <Compile Include="NotificacionBussines.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Dal\Dal.csproj">
-      <Project>{064875FA-84CA-4521-BF14-F7B222BB65D8}</Project>
+      <Project>{359a89fe-2158-4b78-b0d9-9d9c7c67f300}</Project>
       <Name>Dal</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Entity\Entities.csproj">
-      <Project>{4CF21E26-70D8-4FA8-AEBB-FE6894101DD4}</Project>
-      <Name>Entities</Name>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{29bd6edc-7d47-46a5-a341-2f8f78448b2a}</Project>
+      <Name>Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
