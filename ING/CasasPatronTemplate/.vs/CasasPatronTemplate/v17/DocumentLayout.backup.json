@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|c:\\users\\edwin king\\downloads\\ing\\casaspatrontemplate\\casaspatrontemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|solutionrelative:casaspatrontemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\casaspatrontemplate\\construccioncasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|solutionrelative:casaspatrontemplate\\construccioncasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\casaspatrontemplate\\casamadera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|solutionrelative:casaspatrontemplate\\casamadera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\casaspatrontemplate\\casaladrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DC88B7-6DB1-40E4-87D3-F2084819C32C}|CasasPatronTemplate\\CasasPatronTemplate.csproj|solutionrelative:casaspatrontemplate\\casaladrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 125,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstruccionCasa.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\ConstruccionCasa.cs",
+              "RelativeDocumentMoniker": "CasasPatronTemplate\\ConstruccionCasa.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\ConstruccionCasa.cs",
+              "RelativeToolTip": "CasasPatronTemplate\\ConstruccionCasa.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:41:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasaMadera.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\CasaMadera.cs",
+              "RelativeDocumentMoniker": "CasasPatronTemplate\\CasaMadera.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\CasaMadera.cs",
+              "RelativeToolTip": "CasasPatronTemplate\\CasaMadera.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswDQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:41:31.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CasaLadrillo.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\CasaLadrillo.cs",
+              "RelativeDocumentMoniker": "CasasPatronTemplate\\CasaLadrillo.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\CasaLadrillo.cs",
+              "RelativeToolTip": "CasasPatronTemplate\\CasaLadrillo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:41:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "CasasPatronTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\CasasPatronTemplate\\CasasPatronTemplate\\Program.cs",
+              "RelativeToolTip": "CasasPatronTemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:41:31.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

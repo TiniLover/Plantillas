@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\dal\\memoyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\dal\\memoyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\domain\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\domain\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\domain\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\domain\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\domain\\clima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\domain\\clima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\bll\\suscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\bll\\suscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\bll\\climaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\bll\\climaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|c:\\users\\edwin king\\downloads\\ing\\parcial\\parcial\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE39EB38-3C02-41C2-AB94-97163A4257EF}|Parcial\\Parcial.csproj|solutionrelative:parcial\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClimaService.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Bll\\ClimaService.cs",
+              "RelativeDocumentMoniker": "Parcial\\Bll\\ClimaService.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Bll\\ClimaService.cs",
+              "RelativeToolTip": "Parcial\\Bll\\ClimaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:14:05.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Bll\\SuscripcionService.cs",
+              "RelativeDocumentMoniker": "Parcial\\Bll\\SuscripcionService.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Bll\\SuscripcionService.cs",
+              "RelativeToolTip": "Parcial\\Bll\\SuscripcionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:14:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Dal\\MemoyRepository.cs",
+              "RelativeDocumentMoniker": "Parcial\\Dal\\MemoyRepository.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Dal\\MemoyRepository.cs",
+              "RelativeToolTip": "Parcial\\Dal\\MemoyRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:21:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "Parcial\\Domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\Usuario.cs",
+              "RelativeToolTip": "Parcial\\Domain\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:20:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\App.config",
+              "RelativeDocumentMoniker": "Parcial\\App.config",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\App.config",
+              "RelativeToolTip": "Parcial\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-06T17:20:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\IObserver.cs",
+              "RelativeDocumentMoniker": "Parcial\\Domain\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\IObserver.cs",
+              "RelativeToolTip": "Parcial\\Domain\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:20:28.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clima.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\Clima.cs",
+              "RelativeDocumentMoniker": "Parcial\\Domain\\Clima.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\Clima.cs",
+              "RelativeToolTip": "Parcial\\Domain\\Clima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:20:12.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\Ciudad.cs",
+              "RelativeDocumentMoniker": "Parcial\\Domain\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Domain\\Ciudad.cs",
+              "RelativeToolTip": "Parcial\\Domain\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:20:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial\\Program.cs",
+              "ToolTip": "C:\\Users\\Edwin King\\Downloads\\ING\\Parcial\\Parcial\\Program.cs",
+              "RelativeToolTip": "Parcial\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:17:48.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
